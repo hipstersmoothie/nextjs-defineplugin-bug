@@ -1,0 +1,6 @@
+{
+  "name": "test-package",
+  "main": "./main.js",
+  "module": "./module.js",
+  "version": "1.0.0"
+}
